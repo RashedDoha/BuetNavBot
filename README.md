@@ -1,5 +1,5 @@
 # BuetNavBot
-The android application of my level 3 term 1 project as during my undergrad studies at BUET.
+The android application of my level 3 term 1 project during my undergrad studies at BUET.
 
 The code is made open source to assist future students and to serve as a reference for similar projects.
 
